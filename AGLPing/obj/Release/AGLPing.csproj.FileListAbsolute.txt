@@ -1,0 +1,6 @@
+c:\users\russell_johnson\documents\visual studio 2012\Projects\AGLPing\AGLPing\bin\Release\AGLPing.exe.config
+c:\users\russell_johnson\documents\visual studio 2012\Projects\AGLPing\AGLPing\bin\Release\AGLPing.exe
+c:\users\russell_johnson\documents\visual studio 2012\Projects\AGLPing\AGLPing\bin\Release\AGLPing.pdb
+c:\users\russell_johnson\documents\visual studio 2012\Projects\AGLPing\AGLPing\obj\Release\AGLPing.exe
+c:\users\russell_johnson\documents\visual studio 2012\Projects\AGLPing\AGLPing\obj\Release\AGLPing.pdb
+c:\users\russell_johnson\documents\visual studio 2012\Projects\AGLPing\AGLPing\obj\Release\AGLPing.csprojResolveAssemblyReference.cache
